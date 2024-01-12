@@ -1,0 +1,42 @@
+.css-hip9hq-MuiPaper-root-MuiAppBar-root{
+    background-color: #ffff !important
+  }
+  .title{
+  
+    color: #fff;
+    font-size: 70px;
+    font-weight: 700;
+  } 
+  
+  .css-3bzh2f-MuiTypography-root {
+    margin: initial !important;
+  }
+  .explore_button{
+    color: #fff;
+    background-color: #FC4D16 !important;
+    border: 1px solid red;
+    border-radius: 20px !important;
+    
+  }
+  .explore_button:hover
+  {
+    background-color: #fff !important;
+    color: #FC4D16;
+  }
+  .css-1pz7awu-MuiButtonBase-root-MuiIconButton-root {
+  color: #FC4D16 !important;
+  }
+  .css-14vdmhs {
+    margin-top: 24px;
+    width: auto;
+    max-width: 100%; /* Set max-width to 100% to prevent overflow */
+  }
+  .join_button{
+    border-radius: 20px !important;
+  }
+  .join_button:hover{
+    background-color: #fff !important;
+    color: #1976d2;
+    border: 1px solid #1976d2 ;
+    font-weight: 700;
+  }
